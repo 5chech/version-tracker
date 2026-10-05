@@ -1,1 +1,5 @@
-38.0
+40.0|Revameped controls for goat. Updated the ask for update menu for the new format of release notes.
+39.0|Fixed stability at higher FPS.
+38.0|Added higher FPS, defaulting at maximum. Higher frame mode has issues.
+37.0|Seting overall theme changed. Redesign and reorganisation of the DEV section in settings. Reduced the time to hold menu button to quit the game.
+36.0|Added world tools in Extras. Added holding left menu will give a quit game prompt. Ragdolling in first person mode for the goat is fixed.
