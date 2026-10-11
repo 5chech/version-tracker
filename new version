@@ -1,7 +1,9 @@
-42.0|Placeholder
+43.0|Final polishing and QOL changes before release. Added 'Quit game' and 'Reset all settings' to the dev tab.
+42.0|Replaced black default placeholder panorama background in menus with four new panoramas made in blender!
 41.0|Small GUI inprovements for the ask for update menu. More options added to the UI settings.
 40.0|Revameped controls for goat. Updated the ask for update menu for the new format of release notes.
 39.0|Fixed stability at higher FPS.
 38.0|Added higher FPS, defaulting at maximum. Higher frame mode has issues.
 37.0|Seting overall theme changed. Redesign and reorganisation of the DEV section in settings. Reduced the time to hold menu button to quit the game.
 36.0|Added world tools in Extras. Added holding left menu will give a quit game prompt. Ragdolling in first person mode for the goat is fixed.
+35.0|Where is versions 1 to 35? I haven't documented below because mostly it's just debugging, broken builds and slow inpemation of features.
